@@ -1,4 +1,7 @@
-### Hi ! Here are some repositories and projects I contributed to during my studies !
+### Hi ! Here are some repositories and projects I contributed to during my studies and free time !
+
+### Personal project : 
+[Analyzing traffic road accidents in France in 2022](https://github.com/malools/french-road-accidents)
 
 ### Machine Learning : 
 - [Machine Learning project (Road segmentation)](https://github.com/CS-433/ml-project-2-mnf) : Implemented and trained all the models (using Kaggle GPUs) and wrote report.
